@@ -1,0 +1,5 @@
+.env
+data_lake/
+data_warehouse/
+docs/
+.ipynb_checkpoints/
